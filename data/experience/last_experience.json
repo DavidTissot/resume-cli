@@ -1,0 +1,66 @@
+{
+  "Experiences": [
+    {
+      "Position": "AWS DevSecOps",
+      "Company": "Vocalcom SAS",
+      "Location": "Paris, France",
+      "Duration": "May 2023 - Present",
+      "Description": [
+        "Management of servers for the SaaS applications: mix of Windows and Linux",
+        "Ensure the evolution of maintenance by anticipating the impacts and respecting the continuity of the company's activities",
+        "Participate in the definition of architectures, administer and secure the servers and the Production Active Directories",
+        "Define and optimize the installation and maintenance processes",
+        "Guarantee optimal operation of the platforms",
+        "Manage developments and participate in incident resolution",
+        "Guarantee the provisioning of resources"
+      ]
+    },
+    {
+      "Position": "AWS DevSecOps",
+      "Company": "Axa Climate",
+      "Location": "Paris, France",
+      "Duration": "April 2019 - April 2023",
+      "Description": [
+        "Implementation of deployment CI/CD on Azure Devop and migration to Gitlab",
+        "Application maintenance within Kubernetes",
+        "Application migration from Kubernetes to ECS",
+        "Infrastructure implementation: VPC, Load balancers, WAF, Certificate manager, AWS ECR, AWS Cloudfront, EKS, ECS, RDS, EC2, SSM",
+        "Security: Cloudtrail, Config, GuardDuty, SecurityHub, cloudwatch alerts",
+        "Authentication: SSO, Cognito",
+        "Support for Datascientists on AWS Sagemaker/ Python",
+        "Data Pipeline from raw data to dashboard Tableau",
+        "Architecture documentation"
+      ]
+    },
+    {
+      "Position": "Project Manager",
+      "Company": "AXA France",
+      "Location": "Nanterre, France",
+      "Duration": "May 2013 - April 2019",
+      "Description": [
+        "Big Data project: Data Lake Axa France (Hadoop, Hue, Pig, Hive, impala, oozie)",
+        "a) Production start-Data supply in the Hadoop database of the various AXA Information Systems-Data normalization / transformation batches",
+        "b) Data discovery: data analysis and purification",
+        "c) Implementation of score calculation restitutions (algorithms, web services, Mongo DB database)",
+        "Project 360° vision of the client: 2pi",
+        "a) Construction of the application architecture",
+        "b) Management and monitoring of the development of the Application Interface",
+        "c) Production start-Data supply of the Elasticsearch database-Application installation",
+        "d) Data discovery: analysis and data purification",
+        "Change management: DevOps",
+        "a) Presentation of DevOps -Animation of workshops",
+        "b) Follow-up of the DMS project within the DevOps framework",
+        "c) Analysis of automation tools (Jenkins/Maven/Jahia/Archiva, TFS 2013 inRelease, BMC RLM, Serena, CA Lisa Release automation, Deployit, IBM Urban Code)",
+        "d) Transformation DevOps 2014: planning, budget, organization, implementation of the experiment",
+        "Monitoring of the SMS/email platform project",
+        "a) Drafting of functional documentation",
+        "b) Presentation of the SMS/email platform",
+        "c) Development monitoringd) Production monitoring",
+        "Analysis of Geomarketing",
+        "a) Analysis of existing market tools",
+        "b) Analysis of Open Source tools",
+        "c) Presentation of analysis results"
+       ]
+    }
+  ]
+}
