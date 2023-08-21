@@ -13,5 +13,9 @@ RUN set -e; \
         pip install -r requirements.txt;
 COPY . .
 RUN chmod +x resume-cli
+ARG USER=cv
+ENV HOME /home/$USER
+RUN adduser -D $USER
+USER $USER
 EXPOSE 5000
 CMD ["uwsgi", "--ini", "app.ini"]
