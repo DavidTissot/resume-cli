@@ -1,0 +1,8 @@
+{
+  "Cloud": "AWS, GCP, OVH",
+  "Container": "Docker, docker-compose, Kubernetes, helm",
+  "DevOps": "Gitlab, Azure Devops",
+  "Languages": "Terraform, Python",
+  "OS": "Linux, Windows, MacOS",
+  "Shell": "bash, pwsh"
+}

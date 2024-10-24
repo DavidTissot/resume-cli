@@ -1,0 +1,319 @@
+{
+  "Experiences": [
+    {
+      "Company": "Alliance Trade",
+      "Description": [
+        "Management of servers for the SaaS applications: mix of Windows and Linux",
+        "Ensure the evolution of maintenance by anticipating the impacts and respecting the continuity of the company's activities",
+        "Define and optimize the installation and maintenance processes",
+        "Guarantee optimal operation of the platforms",
+        "Manage developments and participate in incident resolution",
+        "Guarantee the provisioning of resources"
+      ],
+      "Duration": "Sep 2023 - present",
+      "Location": "Paris, France",
+      "Position": "AWS DevSecOps"
+    },
+    {
+      "Company": "Vocalcom SAS",
+      "Description": [
+        "Management of servers for the SaaS applications: mix of Windows and Linux",
+        "Ensure the evolution of maintenance by anticipating the impacts and respecting the continuity of the company's activities",
+        "Participate in the definition of architectures, administer and secure the servers and the Production Active Directories",
+        "Define and optimize the installation and maintenance processes",
+        "Guarantee optimal operation of the platforms",
+        "Manage developments and participate in incident resolution",
+        "Guarantee the provisioning of resources"
+      ],
+      "Duration": "May 2023 - Sep 2023",
+      "Location": "Paris, France",
+      "Position": "AWS DevSecOps"
+    },
+    {
+      "Company": "Axa Climate",
+      "Description": [
+        "Implementation of deployment CI/CD on Azure Devop and migration to Gitlab",
+        "Application maintenance within Kubernetes",
+        "Application migration from Kubernetes to ECS",
+        "Infrastructure implementation: VPC, Load balancers, WAF, Certificate manager, AWS ECR, AWS Cloudfront, EKS, ECS, RDS, EC2, SSM",
+        "Security: Cloudtrail, Config, GuardDuty, SecurityHub, cloudwatch alerts",
+        "Authentication: SSO, Cognito",
+        "Support for Datascientists on AWS Sagemaker/ Python",
+        "Data Pipeline from raw data to dashboard Tableau",
+        "Architecture documentation"
+      ],
+      "Duration": "April 2019 - April 2023",
+      "Location": "Paris, France",
+      "Position": "AWS DevSecOps"
+    },
+    {
+      "Company": "AXA France",
+      "Description": [
+        "Big Data project: Data Lake Axa France (Hadoop, Hue, Pig, Hive, impala, oozie)",
+        "a) Production start-Data supply in the Hadoop database of the various AXA Information Systems-Data normalization / transformation batches",
+        "b) Data discovery: data analysis and purification",
+        "c) Implementation of score calculation restitutions (algorithms, web services, Mongo DB database)",
+        "Project 360\u00b0 vision of the client: 2pi",
+        "a) Construction of the application architecture",
+        "b) Management and monitoring of the development of the Application Interface",
+        "c) Production start-Data supply of the Elasticsearch database-Application installation",
+        "d) Data discovery: analysis and data purification",
+        "Change management: DevOps",
+        "a) Presentation of DevOps -Animation of workshops",
+        "b) Follow-up of the DMS project within the DevOps framework",
+        "c) Analysis of automation tools (Jenkins/Maven/Jahia/Archiva, TFS 2013 inRelease, BMC RLM, Serena, CA Lisa Release automation, Deployit, IBM Urban Code)",
+        "d) Transformation DevOps 2014: planning, budget, organization, implementation of the experiment",
+        "Monitoring of the SMS/email platform project",
+        "a) Drafting of functional documentation",
+        "b) Presentation of the SMS/email platform",
+        "c) Development monitoringd) Production monitoring",
+        "Analysis of Geomarketing",
+        "a) Analysis of existing market tools",
+        "b) Analysis of Open Source tools",
+        "c) Presentation of analysis results"
+      ],
+      "Duration": "May 2013 - April 2019",
+      "Location": "Nanterre, France",
+      "Position": "Project Manager"
+    },
+    {
+      "Company": "BNP PARIBAS CARDIF",
+      "Description": [
+        "Technical and functional expert",
+        "a) Setting up Master I environments",
+        "b) Launching batches",
+        "c) Installing Master I patches",
+        "d) Technical and functional analyzes of anomalies",
+        "e) Master I production monitoring",
+        "f) Support/assistance to management and project teams",
+        "Development of internal evolutions of BNP Paribas Assurance",
+        "a) Development of procedures and functions",
+        "b) Development of Unix batches for the Master I database",
+        "Interface with the Linedata editor",
+        "a) Declaration of anomalies to Linedata",
+        "b) Follow-up of corrections of anomalies",
+        "c) Technical analyzes of the patches received"
+      ],
+      "Duration": "January 2010 - December 2012",
+      "Location": "Rueil Malmaison, France",
+      "Position": "Technical/functional expert of Master I a financial software package"
+    },
+    {
+      "Company": "LINEDATA",
+      "Description": [
+        "Drafting of functional and technical design files (BNP: ETOIL, Swiss Life: PULSE, FORTIS: P10 desktop publishing...)",
+        "Development of developments on various projects (Swiss Life, FORTIS, MAIF, SKANDIA)",
+        "Evaluation of work \u25cf Expertise and infocentre with Linedata",
+        "Correction of anomalies (PL/SQL, Datastudio, Business Objects...)",
+        "Interventions on customer site"
+      ],
+      "Duration": "August 2007 - December 2009",
+      "Location": "Antony, France",
+      "Position": "MOE - Developper"
+    },
+    {
+      "Company": "GEFCO",
+      "Description": [
+        "*** Business Objects & HR Access specialist ***",
+        "Functional link between development team and the HR department",
+        "Functional design of an international datawarehouse for the HR department (Personal files/jobs and skills/mobility and career/hiring/temporary resources) from the data of HR Access and PIXID",
+        "Designing/Reporting with Business Objects on the datawarehouse",
+        "Accounting balance of payrolls by cost centers for the interface with SAP 1.03",
+        "One year roadmap for resources planning on the project",
+        "Testing/validating the different deliveries of the project",
+        "*** Project Leader ***",
+        "Functional link between development team and the HR department",
+        "International deployment of the HR Access modules",
+        "Functional link between the HR department and the subsidiaries payrolls providers",
+        "Functional design of the implementation of HR Access (Corporate database - Sap FI/CO interfaces)",
+        "Testing/validating the different deliveries of the project",
+        "Support during the implementation of HR Access (Poland, Czech Republic, and Turkey)"
+      ],
+      "Duration": "January 2003 \u2013 June 2007",
+      "Location": "Paris \u2013 La D\u00e9fense, France",
+      "Position": "MOA DRHCO"
+    },
+    {
+      "Company": "EUROCONTROL",
+      "Description": [
+        "Budget support, evaluation of department budgets, funds by GL codes/link between Financial department and PMU",
+        "Reporting with Business Objects (Budget \u2013 Purchase \u2013 Invoices, Financial Datawarehouse)",
+        "Analysing and fixing different issues in a Project Management Tool for the budget",
+        "Database modelization and Forms creation, PL-Sql script, Universe/reports creation VB applications development"
+      ],
+      "Duration": "July 2001 - December 2002",
+      "Location": "Maastricht, The Netherlands",
+      "Position": "Business Objects & Oracle specialist "
+    },
+    {
+      "Company": "FORD",
+      "Description": [
+        "Providing services/support on the Datawarehouse Project, link with the development team in the US",
+        "Reporting/Designing with Business Objects/Advise on the datawarehouse development and efficiency",
+        "Supply Chain Management analysis \u2013 (Statistics/forecast on cycle, safety, target, available stock, fill, backorders)",
+        "Business Objects trainer for one person"
+      ],
+      "Duration": "April 2001 \u2013 May 2002",
+      "Location": "Cologne, Germany",
+      "Position": "Business Objects & Oracle specialist "
+    },
+    {
+      "Company": "HENKEL",
+      "Description": [
+        "Feasibility study and implementation of a method for loading data into the HR Access database",
+        "Evaluation / determination of the needs of the HR department"
+      ],
+      "Duration": "February 2001 \u2013 March 2001",
+      "Location": "Brussels, Belgium",
+      "Position": "IS Consultant"
+    },
+    {
+      "Company": "ABN AMRO,",
+      "Description": [
+        "Creation of Business Objects universe to access Ms-Access data and reports (Webi for the intranet)"
+      ],
+      "Duration": "December 2000 \u2013 February 2001",
+      "Location": "msterdam, The Netherlands",
+      "Position": "IS Consultant"
+    },
+    {
+      "Company": "SIEMENS",
+      "Description": [
+        "Commercial points: calculation of Service orders, opening/closing of accounts, cost control",
+        "Planning: preparation of project plans (follow-up points, deliverables), determination of project size",
+        "Resources: 3 -6 month planning of resources, request of qualified personnel",
+        "Monitoring process: problem management, technical requests, request for modifications, emergency process, acceptance and implementation, risk studies",
+        "Preparation of the budget by project/GL codes/funds"
+      ],
+      "Duration": "May 2000 \u2013 October 2000",
+      "Location": "Munich, Germany",
+      "Position": "IS Consultant"
+    },
+    {
+      "Company": "DUTCHTONE",
+      "Description": [
+        "Responsible in validating and enabling the Information System to support 1 million subscribers",
+        "Study on the EAI tools on the market, organising and piloting meetings of ISD managers",
+        "Collecting relevant information, project risks assessment",
+        "Writing the technical road map/presenting the recommendations"
+      ],
+      "Duration": "October 1999 \u2013 February 2000",
+      "Location": "Den Haag, The Netherlands",
+      "Position": "IS Consultant"
+    },
+    {
+      "Company": "ALSTOM",
+      "Description": [
+        "Programming of new functionalities in the report functions"
+      ],
+      "Duration": "July 1999",
+      "Location": "Villeurbanne, France",
+      "Position": "IS Consultant"
+    },
+    {
+      "Company": "Compagnie G\u00e9n\u00e9rale des eaux",
+      "Description": [
+        "*** Project Leader ***",
+        "Management and monitoring of the team",
+        "SupportDBA Oracle",
+        "*** Business Objects expert ***",
+        "Evaluation and improvement of existing Business Objects universes",
+        "Business Objects trainer",
+        "Implementation of some analyzes concerning their call campaign with Business Objects"
+      ],
+      "Duration": "April 1999 \u2013 May 1999",
+      "Location": "Lyon and Villeurbanne, France",
+      "Position": "IS Consultant"
+    },
+    {
+      "Company": "CETIM",
+      "Description": [
+        "*** Business Objects expert ***",
+        "Feasibility study and implementation of a method using Business Objects with the HR-Access database",
+        "Creation of a Business Objects universe to access HR-Access Data and its repository"
+      ],
+      "Duration": "April 1999 \u2013 May 1999",
+      "Location": "Senlis, France",
+      "Position": "HR-Access Consultant"
+    },
+    {
+      "Company": "RENAULT VI",
+      "Description": [
+        "Technical studies and proposal of migration scenarios, load calculation (estimate)",
+        "Studies and choice for the monitoring and management of projects and conversion tools",
+        "Functional studies of the impacts of each scenario, implementation of the project",
+        "Preparation of the launch of EURO: Euro \u2013Lot 99 projects",
+        "Overall project management: monitoring and functional verification of the Euro \u2013Lot 99 projects",
+        "Organization and management of user group meetings",
+        "Elaboration of a set of tests and organization of these trials"
+      ],
+      "Duration": "June 1998 \u2013 March 1999",
+      "Location": "Villeurbanne, France",
+      "Position": "IT Consultant"
+    },
+    {
+      "Company": "MICHELIN",
+      "Description": [
+        "Improvement of response times \u25cf Useful adjustments to the application",
+        "Functional evolutions",
+        "Oracle and Express database and administration of the application"
+      ],
+      "Duration": "March 1998 \u2013 May 1998",
+      "Location": "Clermont-Ferrand, France",
+      "Position": "IT Consultant"
+    },
+    {
+      "Company": "RENAULT VI",
+      "Description": [
+        "Design and production of the Datawarehouse and the Datamart",
+        "Modeling of the Oracle database/design and production of the database feed",
+        "Programming an AGL using Microsoft Access for automatic creation of loading scripts",
+        "Improvement of databases and administration",
+        "Design and creation of the Business Objects Repository",
+        "Creation of the Business Objects v4 universe",
+        "Creation of standard queries and reports"
+      ],
+      "Duration": "November 1997 \u2013 February 1998",
+      "Location": "Villeurbanne, France",
+      "Position": "IT Consultant"
+    },
+    {
+      "Company": "SOMFY",
+      "Description": [
+        "Migration from Business Objects v3 to Business Objects v4",
+        "Creation of Universes",
+        "Migration of existing queries and reports",
+        "Repository administration",
+        "Training of end users in Business Objects v4"
+      ],
+      "Duration": "July 1997 \u2013 October 1997",
+      "Location": "Ugines, France",
+      "Position": "IT Consultant"
+    },
+    {
+      "Company": "CREDIT LYONNAIS",
+      "Description": [
+        "Design and implementation of a management and budgeting system",
+        "Oracle and Oracle Express databases",
+        "Design and implementation of database feeding",
+        "Improvement of databases and administration",
+        "Design and implementation of Oracle Express Objects applications"
+      ],
+      "Duration": "February 1997 \u2013 June 1997",
+      "Location": "Paris, France",
+      "Position": "IT Consultant"
+    },
+    {
+      "Company": "SCHLUMBERGER",
+      "Description": [
+        "Design and production of an expense tracking prototype",
+        "Database modeling",
+        "Administering and feeding the Gentia database",
+        "Design and production of the Gentia application"
+      ],
+      "Duration": "Janvier 1997",
+      "Location": "Paris, France",
+      "Position": "IT Consultant"
+    }
+  ]
+}
