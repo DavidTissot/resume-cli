@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: poetry.lock
+  checksum: 1e13a883573fd1f7e7ddde7e867ce38669ddd28deff857208578b111774cd873
+- filename: templates/cv.html
+  checksum: 60a619149b4b627a9f27c7d1f6ec19036ab0d61f3a22381c10b696374780ac94
+- filename: Makefile
+  checksum: 3afb9a34df4a85bcec3cad1c224c687b4f48862000bb04a68328d3ccdc2497f5
+- filename: sonar-docker.sh
+  checksum: cbee5f7ff560e23fafe4643ce9d5e2fc026f7eb6649310ec363082b5cd9b79b7
+- filename: sonar-project.properties
+  checksum: dad60c5a8f9e46c6eee993ec832a770936e571fc166de2a7cb794bf285189958
+version: ""

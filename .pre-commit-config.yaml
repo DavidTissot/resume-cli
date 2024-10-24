@@ -1,0 +1,87 @@
+repos:
+  - repo: https://github.com/asottile/reorder_python_imports
+    rev: v3.14.0
+    hooks:
+      - id: reorder-python-imports
+        stages: [pre-commit, pre-push]
+        language_version: python3
+  - repo: https://github.com/PyCQA/bandit
+    rev: 1.7.10
+    hooks:
+      - id: bandit
+        args: ['-lll']
+        stages: [pre-commit, pre-push]
+        language_version: python3
+  - repo: https://github.com/Lucas-C/pre-commit-hooks-safety
+    rev: v1.3.3
+    hooks:
+      - id: python-safety-dependencies-check
+        files: requirements.txt
+        stages: [pre-commit, pre-push]
+        language_version: python3
+        args: ["--ignore=70612"]
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-added-large-files
+        args: ['--maxkb=5000']
+        stages: [pre-commit, pre-push]
+      - id: check-docstring-first
+        stages: [pre-commit, pre-push]
+      - id: check-json
+        stages: [pre-commit, pre-push]
+      - id: check-merge-conflict
+        stages: [pre-commit, pre-push]
+      - id: check-xml
+        stages: [pre-commit, pre-push]
+      - id: check-yaml
+        args:
+          - --unsafe
+        stages: [pre-commit, pre-push]
+      - id: detect-private-key
+        stages: [pre-commit, pre-push]
+      - id: end-of-file-fixer
+        stages: [pre-commit, pre-push]
+      - id: requirements-txt-fixer
+        stages: [pre-commit, pre-push]
+      - id: trailing-whitespace
+        stages: [pre-commit, pre-push]
+      - id: check-merge-conflict
+        name: check_merge_conflict
+      - id: pretty-format-json
+        name: pretty_format_json
+        args:
+          - --autofix
+
+  - repo: https://github.com/gruntwork-io/pre-commit
+    rev: v0.1.24
+    hooks:
+      - id: shellcheck
+
+  - repo: https://github.com/antonbabenko/pre-commit-terraform
+    rev: v1.96.1
+    hooks:
+      - id: terraform_fmt
+        stages: [pre-commit, pre-push]
+      - id: terraform_docs
+        name: terraform_docs
+        stages: [pre-commit, pre-push]
+      - id: terraform_tflint
+        name: terraform_tflint
+        args:
+          - "args=--deep"
+        stages: [pre-commit, pre-push]
+
+  - repo: https://github.com/Yelp/detect-secrets
+    rev: v1.5.0
+    hooks:
+      - id: detect-secrets
+        name: detect_secrets
+        args: ["--baseline", ".secrets.baseline"]
+        exclude: .*/tests/.*
+
+  - repo: https://github.com/thoughtworks/talisman
+    rev: 'v1.28.0'
+    hooks:
+      - id: talisman-commit
+        entry: cmd --githook pre-commit
