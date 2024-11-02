@@ -1,4 +1,6 @@
-# Project
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=DavidTissot.my-resume&left_color=green&right_color=red)
+
+ # Project
 The project consists of a Docker image which hosts a web application of my resume. The web application is built using HTML, CSS, JavaScript, flask and uwsgi and. It is deployed using Docker and can be accessed locally.
 
 Here are some additional benefits of having a Docker image which hosts a web application of my resume:
